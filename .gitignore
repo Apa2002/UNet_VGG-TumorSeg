@@ -1,0 +1,29 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data & generated artifacts (large / regenerable — do not commit)
+augmented/
+data/
+*.tif
+*.tiff
+
+# Model checkpoints & outputs
+results/*.pth
+results/predictions/
+*.pth
+*.pt
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
