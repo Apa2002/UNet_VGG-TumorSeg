@@ -110,7 +110,7 @@ python src/evaluate.py \
 
 | Split | Dice | IoU | CCR |
 |---|---|---|---|
-| Validation | _fill in after training_ | _fill in after training_ | _fill in after training_ |
+
 | Test | 0.6775 | 0.6419 | 0.9867 |
 
 Loss/Dice/IoU curves and side-by-side prediction images (input / ground truth / predicted mask)
