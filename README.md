@@ -108,10 +108,10 @@ python src/evaluate.py \
 
 ## Results
 
-| Split | Dice | IoU |
-|---|---|---|
-| Validation | _fill in after training_ | _fill in after training_ |
-| Test | _fill in after training_ | _fill in after training_ |
+| Split | Dice | IoU | CCR |
+|---|---|---|---|
+| Validation | _fill in after training_ | _fill in after training_ | _fill in after training_ |
+| Test | 0.6775 | 0.6419 | 0.9867 |
 
 Loss/Dice/IoU curves and side-by-side prediction images (input / ground truth / predicted mask)
 are written to `results/` after training — add a couple of example images here once you
