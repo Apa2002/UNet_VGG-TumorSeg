@@ -112,13 +112,9 @@ python src/evaluate.py \
 |---|---|---|---|
 | Test | 0.6775 | 0.6419 | 0.9867 |
 
-Loss/Dice/IoU curves and side-by-side prediction images (input / ground truth / predicted mask)
-are written to `results/` after training — add a couple of example images here once you
-have a run, e.g.:
-
-```markdown
 ![sample prediction](assets/sample_prediction.png)
-```
+
+*Input MRI slice / ground truth mask / predicted mask (see `results/predictions/` for more examples).*
 
 ---
 
